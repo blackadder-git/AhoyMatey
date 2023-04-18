@@ -16,7 +16,6 @@ namespace AhoyMatey
              * useful for debugging 
              *********************************/
             System.Diagnostics.Debug.WriteLine("Hello World");
-
         }
     }
 }
