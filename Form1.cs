@@ -8,7 +8,15 @@ namespace AhoyMatey
         {
             InitializeComponent();
 
+            // change the form label
             label1.Text = "Ahoy, Matey";
+
+            /**********************************
+             * output some information to the console
+             * useful for debugging 
+             *********************************/
+            System.Diagnostics.Debug.WriteLine("Hello World");
+
         }
     }
 }
